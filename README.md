@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Alexia Ramalho</h1>
-<h3 align="center">A student from Brazil</h3>
 
 - 🌱 I’m currently learning **UI and UX**
 
