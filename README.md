@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexia Ramalho</h1>
 
-- 🌱 I’m currently learning **UI and UX**
+- 🌱 I'm a software engineering student
 
 - 📫 How to reach me **alexia.rsantos2@gmail.com**
 
